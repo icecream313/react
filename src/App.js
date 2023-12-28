@@ -6,9 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-          안녕하세요
+        <p>          
+          안녕하세요. 두번째로 수정하고 git에 올릴께요.
         </p>
         <a
           className="App-link"
